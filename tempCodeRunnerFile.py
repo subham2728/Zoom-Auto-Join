@@ -1,0 +1,1 @@
+future_time = datetime.timedelta(seconds=42)
